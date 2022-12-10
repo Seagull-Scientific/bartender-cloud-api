@@ -10,4 +10,4 @@ https://help.seagullscientific.com/BarTenderCloud/Help/en/Content/API/API_Automa
 
 https://help.seagullscientific.com/BarTenderCloud/Help/en/Content/API/API_AvailableAPIs_LP.htm
 
-
+## PSBTCFI.py shows how to interact with the API in python  
