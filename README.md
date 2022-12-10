@@ -1,4 +1,4 @@
-## Need more information on how to use the API visit the BarTenser documentation site at: 
+## Need more information on how to use the API visit the BarTender documentation site at: 
 
 https://help.seagullscientific.com/BarTenderCloud/Help/en/Content/API/API_AutomatingBTCloud_LP.htm
 
